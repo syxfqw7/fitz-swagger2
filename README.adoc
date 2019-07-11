@@ -1,5 +1,5 @@
 = SimpleSwagger2 Demo With Springboot
-:author: Fitz
-:version: 0.0.1
+author: Fitz
+version: 0.0.1
 === Maven
 when you run package, ${project.build.directory}/asciidoc has generated
