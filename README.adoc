@@ -7,3 +7,7 @@ when you run package, ${project.build.directory}/asciidoc has generated
 html: /asciidoc/html
 
 pdf: /asciidoc/pdf
+
+
+mapped url path: http://localhost:8080//v2/api-docs
+swagger index path: http://localhost:8080/swagger-ui.html#/
